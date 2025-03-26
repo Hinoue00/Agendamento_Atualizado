@@ -1,0 +1,7 @@
+streamlit
+pandas
+xlsxwriter
+Pillow
+streamlit_calendar  
+langcodes
+python-i18n
